@@ -37,6 +37,8 @@ The report is built across **4 pages** within a 1920×1080 Full HD canvas:
 
 ### Page 1 - Introduction
 Executive landing page with network snapshot, key insights, and prioritised recommendations. Includes navigation buttons to each analytical page.
+<img width="1613" height="901" alt="image" src="https://github.com/user-attachments/assets/1021ff33-7b1a-48db-8424-458b4fb74dbf" />
+
 
 ### Page 2 - Overview
 High-level network performance dashboard answering executive questions about demand, capacity, and risk.
@@ -50,6 +52,7 @@ High-level network performance dashboard answering executive questions about dem
 - Hospitals by Pressure Category bar chart
 - Avg Burnout Index by Hospital bar chart
 - Total Visits by Day of Week column chart
+<img width="1616" height="901" alt="image" src="https://github.com/user-attachments/assets/b5a703f8-e295-4ad5-a43b-c7a40dc1bafb" />
 
 ### Page 3 - Patient Flow
 Deep dive into how patients move through the care pathway, where delays occur, and which factors drive poor outcomes.
@@ -62,6 +65,7 @@ Deep dive into how patients move through the care pathway, where delays occur, a
 - Patient Risk Groups vs Readmission Rate (line and clustered bar)
 - Hospital flow detail table - Avg Wait Time, Avg LOS Hours, 4-Hour Breach Rate
 - Seasonal demand trend with average reference line
+<img width="1614" height="901" alt="image" src="https://github.com/user-attachments/assets/bb1b389a-a792-49d1-8d89-0437410d2a9f" />
 
 ### Page 4 - Staffing & Finance
 Analysis of workforce pressure, financial sustainability, and operational risk across the network.
@@ -74,6 +78,7 @@ Analysis of workforce pressure, financial sustainability, and operational risk a
 - Region underperformance comparison
 - Hospital staffing detail table
 - Burnout vs Mortality scatter (Q8 - factors connected to outcomes)
+<img width="1608" height="905" alt="image" src="https://github.com/user-attachments/assets/81e7bd76-c702-4f01-a81a-4ff0710c35e8" />
 
 ---
 
