@@ -177,8 +177,8 @@ Patient Experience Index =
 
 ## Report Live link
 
-https://app.powerbi.com/reportEmbed?reportId=78fa66d7-9b9b-45eb-a2c8-d8793cd57301&autoAuth=true&ctid=509eb15f-795b-4782-bd4e-748dc6ed48df
-
+[https://app.powerbi.com/reportEmbed?reportId=78fa66d7-9b9b-45eb-a2c8-d8793cd57301&autoAuth=true&ctid=509eb15f-795b-4782-bd4e-748dc6ed48df
+](https://app.powerbi.com/view?r=eyJrIjoiNjFkODkyMDAtMDA2NS00MmI2LTk1YTMtNGI0NWI5NzM5YzBlIiwidCI6IjUwOWViMTVmLTc5NWItNDc4Mi1iZDRlLTc0OGRjNmVkNDhkZiIsImMiOjZ9) 
 ---
 
 ## 📁 Repository Structure
