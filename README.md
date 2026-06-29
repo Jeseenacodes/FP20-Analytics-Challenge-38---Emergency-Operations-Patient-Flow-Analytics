@@ -39,7 +39,8 @@ Link Report: https://app.powerbi.com/view?r=eyJrIjoiNjFkODkyMDAtMDA2NS00MmI2LTk1
 
 ### Page 1 - Introduction
 Executive landing page with network snapshot, key insights, and prioritised recommendations. Includes navigation buttons to each analytical page.
-<img width="1613" height="901" alt="image" src="https://github.com/user-attachments/assets/1021ff33-7b1a-48db-8424-458b4fb74dbf" />
+
+<img width="1579" height="888" alt="image" src="https://github.com/user-attachments/assets/358a175a-bedd-442a-8bdf-e21c80210164" />
 
 
 ### Page 2 - Overview
@@ -54,7 +55,8 @@ High-level network performance dashboard answering executive questions about dem
 - Hospitals by Pressure Category bar chart
 - Avg Burnout Index by Hospital bar chart
 - Total Visits by Day of Week column chart
-<img width="1616" height="901" alt="image" src="https://github.com/user-attachments/assets/b5a703f8-e295-4ad5-a43b-c7a40dc1bafb" />
+
+<img width="1614" height="903" alt="image" src="https://github.com/user-attachments/assets/fcc93967-d382-472e-b021-a68d80bbd898" />
 
 ### Page 3 - Patient Flow
 Deep dive into how patients move through the care pathway, where delays occur, and which factors drive poor outcomes.
@@ -67,7 +69,8 @@ Deep dive into how patients move through the care pathway, where delays occur, a
 - Patient Risk Groups vs Readmission Rate (line and clustered bar)
 - Hospital flow detail table - Avg Wait Time, Avg LOS Hours, 4-Hour Breach Rate
 - Seasonal demand trend with average reference line
-<img width="1614" height="901" alt="image" src="https://github.com/user-attachments/assets/bb1b389a-a792-49d1-8d89-0437410d2a9f" />
+
+<img width="1612" height="905" alt="image" src="https://github.com/user-attachments/assets/50960de0-9624-450e-9767-aac514afd81f" />
 
 ### Page 4 - Staffing & Finance
 Analysis of workforce pressure, financial sustainability, and operational risk across the network.
@@ -80,7 +83,8 @@ Analysis of workforce pressure, financial sustainability, and operational risk a
 - Region underperformance comparison
 - Hospital staffing detail table
 - Burnout vs Mortality scatter (Q8 - factors connected to outcomes)
-<img width="1608" height="905" alt="image" src="https://github.com/user-attachments/assets/81e7bd76-c702-4f01-a81a-4ff0710c35e8" />
+
+<img width="1613" height="906" alt="image" src="https://github.com/user-attachments/assets/2f7bc017-c69b-4bb8-a329-6681c2432e9f" />
 
 ---
 
@@ -179,8 +183,8 @@ Patient Experience Index =
 
 ## Report Live link
 
-[https://app.powerbi.com/reportEmbed?reportId=78fa66d7-9b9b-45eb-a2c8-d8793cd57301&autoAuth=true&ctid=509eb15f-795b-4782-bd4e-748dc6ed48df
-](https://app.powerbi.com/view?r=eyJrIjoiNjFkODkyMDAtMDA2NS00MmI2LTk1YTMtNGI0NWI5NzM5YzBlIiwidCI6IjUwOWViMTVmLTc5NWItNDc4Mi1iZDRlLTc0OGRjNmVkNDhkZiIsImMiOjZ9) 
+[https://app.powerbi.com/view?r=eyJrIjoiNjFkODkyMDAtMDA2NS00MmI2LTk1YTMtNGI0NWI5NzM5YzBlIiwidCI6IjUwOWViMTVmLTc5NWItNDc4Mi1iZDRlLTc0OGRjNmVkNDhkZiIsImMiOjZ9](https://app.powerbi.com/view?r=eyJrIjoiNjFkODkyMDAtMDA2NS00MmI2LTk1YTMtNGI0NWI5NzM5YzBlIiwidCI6IjUwOWViMTVmLTc5NWItNDc4Mi1iZDRlLTc0OGRjNmVkNDhkZiIsImMiOjZ9)
+
 ---
 
 ## 📁 Repository Structure
