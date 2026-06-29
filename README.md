@@ -35,6 +35,8 @@ The goal: transform raw healthcare operations data into actionable business inte
 
 The report is built across **4 pages** within a 1920×1080 Full HD canvas:
 
+Link Report: https://app.powerbi.com/view?r=eyJrIjoiNjFkODkyMDAtMDA2NS00MmI2LTk1YTMtNGI0NWI5NzM5YzBlIiwidCI6IjUwOWViMTVmLTc5NWItNDc4Mi1iZDRlLTc0OGRjNmVkNDhkZiIsImMiOjZ9
+
 ### Page 1 - Introduction
 Executive landing page with network snapshot, key insights, and prioritised recommendations. Includes navigation buttons to each analytical page.
 <img width="1613" height="901" alt="image" src="https://github.com/user-attachments/assets/1021ff33-7b1a-48db-8424-458b4fb74dbf" />
